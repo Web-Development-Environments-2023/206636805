@@ -6,7 +6,7 @@ body {
 
 .main {
   position: fixed;
-  width: 100%;
+  width: 90%;
   background-color: white(180, 21, 21);
   overflow:auto;
   display: block;
