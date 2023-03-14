@@ -1,12 +1,14 @@
-כתובת האתר:
- 
-שם: שליו מימון 
+# Assignment 1 - Website for the third age
 
-תז: 206636805 
+Name: Shalev Maimon
 
-הערות לבודק: 
-שלום,
-בחרתי לעשות את העבודה על סבא שלי היקר, השתדלתי להסביר את הסיפור חיים שלו יחד איתו ולשתף אותו בתוצאה הסופית
-.בנוסף, השתדלתי להשתמש בכמה שיותר עיצוב באתר על מנת שיהיה עשיר 
-.מקווה שיצאה תוצאה טובה
-תודה 
+ID: 206636805
+
+Website address:
+
+Notes to the tester:
+Hello,
+I chose to do the work on my dear grandfather, I tried to explain his life story together with him and share the final result with him. In addition, I tried to use as much design of HTML5 and CSS3 as possible on the site in order for it to be rich.
+Hope there is a good result!
+
+Thanks.
