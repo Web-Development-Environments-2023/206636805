@@ -6,7 +6,7 @@ body {
 
 .main {
   position: fixed;
-  width: 90%;
+  width: 100%;
   background-color: white(180, 21, 21);
   overflow:auto;
   display: block;
@@ -41,8 +41,9 @@ body {
 }
 
 P{ color:black;
-  font-size:large;
   text-align:center;
+  font-size:large;
+
 }
 
 .Text{
@@ -201,8 +202,8 @@ P{ color:black;
   font-weight: bold;
 }
 .required{
-  color:red;
   font-weight:normal;
+  color:red;
 }
 
 td:hover{
